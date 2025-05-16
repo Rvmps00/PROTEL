@@ -26,5 +26,5 @@ DEV Mobile APP
 - Android Studio (untuk emulator dan SDK Android) https://developer.android.com/studio
 
 ### Semua package yang digunakan sudah didefinisikan dalam file `pubspec.yaml`.  
-- flutter pub get : Untuk menginstall semua dependencies tersebut, jalankan perintah berikut di root folder proyek:
+- flutter pub get : Untuk menginstall semua dependencies tersebut, jalankan perintah berikut di root folder proyek
 - flutter run
